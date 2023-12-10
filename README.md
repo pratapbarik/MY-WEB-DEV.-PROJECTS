@@ -1,2 +1,2 @@
-# my_projects
-OctaNet Internship Tasks/Projects on Web Development  
+#my_projects
+Projects on Web Development  
